@@ -3,4 +3,6 @@ chatgpt 提示詞
 	https://chatgpt.com/share/68afbf4e-c2f4-8009-a742-ad30cb2f1ee1
 	
 02.請將你列出的内容轉换成HTML,其中數字標題使用的標籤為H1(請移除掉數字),項目符號的標籤為H2
-	
+
+
+PS. 使用LibreOffice 無法把DOC變成PPT
